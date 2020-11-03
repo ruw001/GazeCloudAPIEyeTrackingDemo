@@ -1,0 +1,26 @@
+{
+  "name": "eyeTrackingAPIDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruw001/eyeTrackingAPIDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruw001/eyeTrackingAPIDemo/issues"
+  },
+  "homepage": "https://github.com/ruw001/eyeTrackingAPIDemo#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "sweetalert": "^2.1.2"
+  }
+}
